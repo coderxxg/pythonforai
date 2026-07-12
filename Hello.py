@@ -47,7 +47,8 @@ print(list)
 empty =()
 point=(3,5)
 colours = ("red","green","blue")
-print(colours)
+print(colours) 
+print("wow this is amazing")
 
 #sets is bag of unique marble 
 unique_bag= set(list)
